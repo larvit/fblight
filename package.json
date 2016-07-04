@@ -1,0 +1,25 @@
+{
+  "name": "fblight",
+  "version": "0.0.1",
+  "description": "A simple and light facebook client",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larvit/fblight.git"
+  },
+  "keywords": [
+    "facebook",
+    "fb",
+    "thin",
+    "client"
+  ],
+  "author": "Lilleman <lilleman@larvit.se>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larvit/fblight/issues"
+  },
+  "homepage": "https://github.com/larvit/fblight#readme"
+}
