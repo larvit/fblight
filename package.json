@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/larvit/fblight/issues"
   },
-  "homepage": "https://github.com/larvit/fblight#readme"
+  "homepage": "https://github.com/larvit/fblight#readme",
+  "dependencies": {
+    "request": "^2.72.0"
+  }
 }
